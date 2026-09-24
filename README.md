@@ -8,7 +8,3 @@ hello (: my name is chani and I am entry level C++ programmer who prospers into 
 # what im learning (:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
----
-[![](https://komarev.com/ghpvc/?username=envyjtm&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
