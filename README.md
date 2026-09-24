@@ -1,5 +1,5 @@
 # about me!!
-hello (: my name is chani and I am entry level C++ programmer who prospers into accumulating experience in the to create big things. 
+hello (: my name is chani and I am entry level C++ programmer who prospers into accumulating experience in to creating big projects in the future.
 
 
 ## socials!!!
